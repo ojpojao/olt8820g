@@ -1,0 +1,426 @@
+{
+    "gpon8": {
+        "without_errors": {
+            "1": {
+                "port": "1-1-8-1",
+                "serial": "2CDB2763",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-20.1",
+                "olt_tx": "-20.4",
+                "distancia": "1.8999"
+            },
+            "3": {
+                "port": "1-1-8-3",
+                "serial": "2CDB5EF5",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.3",
+                "olt_tx": "-19.6",
+                "distancia": "1.9713"
+            },
+            "4": {
+                "port": "1-1-8-4",
+                "serial": "2CDB3CDF",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.7",
+                "olt_tx": "-19.6",
+                "distancia": "1.8840"
+            },
+            "5": {
+                "port": "1-1-8-5",
+                "serial": "2CDB61E1",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.8",
+                "olt_tx": "-20.5",
+                "distancia": "1.7181"
+            },
+            "6": {
+                "port": "1-1-8-6",
+                "serial": "2CDB6517",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-20.2",
+                "olt_tx": "-22.7",
+                "distancia": "1.7119"
+            },
+            "7": {
+                "port": "1-1-8-7",
+                "serial": "2CDB65DF",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.0",
+                "olt_tx": "-18.1",
+                "distancia": "1.8484"
+            },
+            "8": {
+                "port": "1-1-8-8",
+                "serial": "2CDB0C17",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.4",
+                "olt_tx": "-19.4",
+                "distancia": "1.7700"
+            },
+            "9": {
+                "port": "1-1-8-9",
+                "serial": "E8968A0B",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-18.2",
+                "olt_tx": "-20.1",
+                "distancia": "2.0621"
+            },
+            "10": {
+                "port": "1-1-8-10",
+                "serial": "2CDB7A31",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.9",
+                "olt_tx": "-18.3",
+                "distancia": "1.8284"
+            },
+            "11": {
+                "port": "1-1-8-11",
+                "serial": "2CDB7FBD",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-21.2",
+                "olt_tx": "-22.0",
+                "distancia": "1.9720"
+            },
+            "12": {
+                "port": "1-1-8-12",
+                "serial": "2CDB73D3",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.7",
+                "olt_tx": "-19.7",
+                "distancia": "1.6527"
+            },
+            "13": {
+                "port": "1-1-8-13",
+                "serial": "2CDB8611",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-17.3",
+                "olt_tx": "-18.3",
+                "distancia": "1.9064"
+            },
+            "14": {
+                "port": "1-1-8-14",
+                "serial": "2CDBB847",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.0",
+                "olt_tx": "-18.0",
+                "distancia": "1.8477"
+            },
+            "16": {
+                "port": "1-1-8-16",
+                "serial": "2CDBC56D",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.3",
+                "olt_tx": "-19.0",
+                "distancia": "1.7842"
+            },
+            "17": {
+                "port": "1-1-8-17",
+                "serial": "2CDBB985",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-17.6",
+                "olt_tx": "-18.2",
+                "distancia": "1.7325"
+            },
+            "18": {
+                "port": "1-1-8-18",
+                "serial": "2CDBB987",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-19.4",
+                "olt_tx": "-20.2",
+                "distancia": "1.7522"
+            },
+            "19": {
+                "port": "1-1-8-19",
+                "serial": "2CDBB99B",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-17.3",
+                "olt_tx": "-18.0",
+                "distancia": "1.8747"
+            },
+            "20": {
+                "port": "1-1-8-20",
+                "serial": "2CDBC135",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-22.0",
+                "olt_tx": "-20.5",
+                "distancia": "2.0590"
+            },
+            "21": {
+                "port": "1-1-8-21",
+                "serial": "2CDBC231",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-20.4",
+                "olt_tx": "-21.5",
+                "distancia": "2.2361"
+            },
+            "22": {
+                "port": "1-1-8-22",
+                "serial": "2CDBC6E1",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-21.4",
+                "olt_tx": "-23.9",
+                "distancia": "1.9624"
+            },
+            "23": {
+                "port": "1-1-8-23",
+                "serial": "2CDBC95D",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-28.8",
+                "olt_tx": "-24.8",
+                "distancia": "1.6801"
+            },
+            "24": {
+                "port": "1-1-8-24",
+                "serial": "2CDBC993",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-17.7",
+                "olt_tx": "-18.1",
+                "distancia": "1.8375"
+            },
+            "25": {
+                "port": "1-1-8-25",
+                "serial": "8B6961C3",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-26.1",
+                "olt_tx": "-27.0",
+                "distancia": "2.2663"
+            },
+            "26": {
+                "port": "1-1-8-26",
+                "serial": "2CDBC9C9",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-20.1",
+                "olt_tx": "-22.8",
+                "distancia": "1.9697"
+            },
+            "27": {
+                "port": "1-1-8-27",
+                "serial": "8BF234A1",
+                "sernoID": "ITBS",
+                "modelo": "110Gi",
+                "hw_versao": "9100114",
+                "sw_versao": "1.0.25",
+                "olt_rx": "-21.2",
+                "olt_tx": "-20.8",
+                "distancia": "2.0938"
+            },
+            "28": {
+                "port": "1-1-8-28",
+                "serial": "8BF234AF",
+                "sernoID": "ITBS",
+                "modelo": "110Gi",
+                "hw_versao": "9100114",
+                "sw_versao": "1.0.25",
+                "olt_rx": "-18.7",
+                "olt_tx": "-19.5",
+                "distancia": "1.8213"
+            },
+            "29": {
+                "port": "1-1-8-29",
+                "serial": "E8968A08",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-17.4",
+                "olt_tx": "-18.9",
+                "distancia": "1.7684"
+            },
+            "30": {
+                "port": "1-1-8-30",
+                "serial": "E86ADA91",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-20.0",
+                "olt_tx": "-19.6",
+                "distancia": "2.0182"
+            },
+            "31": {
+                "port": "1-1-8-31",
+                "serial": "E8968A0A",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-26.9",
+                "olt_tx": "-23.0",
+                "distancia": "2.0532"
+            },
+            "32": {
+                "port": "1-1-8-32",
+                "serial": "2CDBC9A9",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-19.7",
+                "olt_tx": "-20.9",
+                "distancia": "2.0161"
+            },
+            "33": {
+                "port": "1-1-8-33",
+                "serial": "2CDBACAF",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-18.8",
+                "olt_tx": "-19.2",
+                "distancia": "2.0264"
+            },
+            "34": {
+                "port": "1-1-8-34",
+                "serial": "2CDBC9AF",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v2.0",
+                "sw_versao": "1.0-190730",
+                "olt_rx": "-19.3",
+                "olt_tx": "-20.6",
+                "distancia": "1.7564"
+            },
+            "35": {
+                "port": "1-1-8-35",
+                "serial": "8B696ADF",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-19.7",
+                "olt_tx": "-18.7",
+                "distancia": "1.9081"
+            },
+            "36": {
+                "port": "1-1-8-36",
+                "serial": "8B696B2B",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-21.4",
+                "olt_tx": "-20.7",
+                "distancia": "1.9733"
+            },
+            "37": {
+                "port": "1-1-8-37",
+                "serial": "326237C6",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-17.7",
+                "olt_tx": "-19.8",
+                "distancia": "1.9010"
+            },
+            "38": {
+                "port": "1-1-8-38",
+                "serial": "326237C8",
+                "sernoID": "ITBS",
+                "modelo": "110Gb",
+                "hw_versao": "PON110B_v3.0",
+                "sw_versao": "1.0-200522",
+                "olt_rx": "-17.4",
+                "olt_tx": "-18.5",
+                "distancia": "1.7143"
+            }
+        },
+        "with_errors": {
+            "2": {
+                "port": "1-1-8-2",
+                "serial": "2CDB5047",
+                "sernoID": "ITBS",
+                "modelo": "-",
+                "hw_versao": "-",
+                "sw_versao": "-",
+                "olt_rx": "error",
+                "olt_tx": "error",
+                "distancia": "error"
+            },
+            "15": {
+                "port": "1-1-8-15",
+                "serial": "2CDB8841",
+                "sernoID": "ITBS",
+                "modelo": "-",
+                "hw_versao": "-",
+                "sw_versao": "-",
+                "olt_rx": "error",
+                "olt_tx": "error",
+                "distancia": "error"
+            }
+        }
+    }
+}
