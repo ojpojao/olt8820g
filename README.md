@@ -45,8 +45,8 @@ iSH>
 
 1. Clone o repo e entre na pasta 
 ```
-git clone repo_aqui
-cd repo_aqui
+git clone https://github.com/ojpojao/olt8820g.git
+cd olt8820g
 ```
 2. instalar, criar e ativar o pacote virtualenv
 
