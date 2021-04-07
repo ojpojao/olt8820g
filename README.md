@@ -91,7 +91,7 @@ def _check_dsa_parameters(parameters: DSAParameterNumbers):
         raise ValueError("q must be exactly 160, 224, or 256 bits long")
 
     if not (1 < parameters.g < parameters.p):
-        raise ValueError("g, p don't satisfy 1 < 
+        raise ValueError("g, p don't satisfy 1 < g < p.")
 ```
 x e y refere-se a sua versão do Python.
 
